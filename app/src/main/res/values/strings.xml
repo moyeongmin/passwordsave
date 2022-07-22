@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">passwordsave</string>
+    <string name="title_activity_main_view">MainView</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="login_second">비밀번호를 클라우드에 안전하게 보관하세요\n기기 변경 시 데이터를 복원할 수 있습니다.</string>
+    <string name="login_third">백업하려면 로그인을 해야합니다</string>
+    <string name="login_fourth">앱 설정에서 다시 로그인을 할 수 있습니다</string>
+    <string name="login_fifth">나중에 로그인 하기</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_wtf">wtf</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MS/Desktop/passwordsave-master/app/src/main/res/layout/activity_for_test_room.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/MS/Desktop/passwordsave-master/app/src/main/res/layout/activity_main.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/MS/Desktop/passwordsave/app/src/main/res/layout/activity_main.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/qa985/Downloads/passwordsave/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2255" />
+        <entry key="..\:/Users/qa985/Downloads/passwordsave/app/src/main/res/drawable/edge.xml" value="0.1" />
+        <entry key="..\:/Users/qa985/Downloads/passwordsave/app/src/main/res/drawable/exclamation_right.xml" value="0.165" />
+        <entry key="..\:/Users/qa985/Downloads/passwordsave/app/src/main/res/drawable/google_right.xml" value="0.133" />
+        <entry key="..\:/Users/qa985/Downloads/passwordsave/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2255" />
+        <entry key="..\:/Users/qa985/Downloads/passwordsave/app/src/main/res/drawable/kakaoicon_right.xml" value="0.244" />
+        <entry key="..\:/Users/qa985/Downloads/passwordsave/app/src/main/res/drawable/lock_right.xml" value="0.226" />
+        <entry key="..\:/Users/qa985/Downloads/passwordsave/app/src/main/res/layout/activity_for_test_room.xml" value="0.33" />
+        <entry key="..\:/Users/qa985/Downloads/passwordsave/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/qa985/Downloads/passwordsave/app/src/main/res/layout/activity_main_view.xml" value="0.15" />
+        <entry key="..\:/Users/qa985/Downloads/passwordsave/app/src/main/res/layout/activity_testforaddactivity.xml" value="0.28804347826086957" />
+        <entry key="..\:/Users/qa985/Downloads/passwordsave/app/src/main/res/layout/content_main_view.xml" value="0.3482789855072464" />
+        <entry key="..\:/Users/qa985/Downloads/passwordsave/app/src/main/res/layout/custom_list.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/qa985/Downloads/passwordsave/app/src/main/res/layout/fragment_first.xml" value="0.3482789855072464" />
+        <entry key="..\:/Users/qa985/Downloads/passwordsave/app/src/main/res/layout/fragment_second.xml" value="0.3482789855072464" />
+        <entry key="..\:/Users/qa985/Downloads/passwordsave/app/src/main/res/layout/mainview.xml" value="0.3482789855072464" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
