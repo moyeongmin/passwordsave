@@ -3,6 +3,7 @@ package com.example.passwordsave
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
 import android.widget.LinearLayout
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.passwordsave.databinding.ActivityMainBinding
@@ -36,10 +37,18 @@ class MainView : AppCompatActivity() {
         binding.passwordbtn.setOnClickListener {
             startActivity(intent)
         }
+        binding.Setting.setOnClickListener(View.OnClickListener {
+            val intent=Intent(this,Setting::class.java)
+            startActivity(intent)
+        })
 
         //리사이클러 뷰
         binding.recyclerView.layoutManager = LinearLayoutManager(this)
 
-
+        //2022.07.23 정민서 왔다감 번창하세요
     }
+
+//    fun settingButtonCliked(){
+//        val intent = Intent(this,activity_setting)
+//    }
 }

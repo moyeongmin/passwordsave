@@ -43,12 +43,12 @@
 
         </com.google.android.material.tabs.TabLayout>
 
-    <SearchView
-        android:id="@+id/searchView"
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        <SearchView
+            android:id="@+id/searchView"
+            android:layout_width="343dp"
+            android:layout_height="55dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
 
         <ImageView
 
@@ -62,8 +62,16 @@
             app:layout_constraintEnd_toEndOf="parent"
             tools:ignore="ImageContrastCheck" />
 
-    </androidx.constraintlayout.widget.ConstraintLayout>
+        <ImageView
+            android:id="@+id/Setting"
+            android:layout_width="56dp"
+            android:layout_height="54dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/searchView"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/setting_icon" />
 
+    </androidx.constraintlayout.widget.ConstraintLayout>
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/slide_layout"
         android:layout_width="match_parent"
@@ -101,5 +109,6 @@
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>
+
 
 </com.sothree.slidinguppanel.SlidingUpPanelLayout>
