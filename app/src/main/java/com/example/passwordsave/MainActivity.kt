@@ -45,3 +45,4 @@ class MainActivity : AppCompatActivity() {
 
 // 정민서 왔다감 2022.07.21 번창하세요
 //push pull test
+//2022 07 26 wjdalstj
